@@ -1,0 +1,114 @@
+{
+  "movies": {
+    "movie_1": {
+      "id": "movie_1",
+      "name": "Inception",
+      "thumbnail": "https://via.placeholder.com/200x300?text=Inception",
+      "releaseDate": "2010-07-16",
+      "rating": 8.8,
+      "description": "A skilled thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_2": {
+      "id": "movie_2",
+      "name": "The Shawshank Redemption",
+      "thumbnail": "https://via.placeholder.com/200x300?text=Shawshank",
+      "releaseDate": "1994-09-23",
+      "rating": 9.3,
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_3": {
+      "id": "movie_3",
+      "name": "The Dark Knight",
+      "thumbnail": "https://via.placeholder.com/200x300?text=Dark+Knight",
+      "releaseDate": "2008-07-18",
+      "rating": 9.0,
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests, to fight injustice.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_4": {
+      "id": "movie_4",
+      "name": "Interstellar",
+      "thumbnail": "https://via.placeholder.com/200x300?text=Interstellar",
+      "releaseDate": "2014-11-07",
+      "rating": 8.6,
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_5": {
+      "id": "movie_5",
+      "name": "Pulp Fiction",
+      "thumbnail": "https://via.placeholder.com/200x300?text=Pulp+Fiction",
+      "releaseDate": "1994-10-14",
+      "rating": 8.9,
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_6": {
+      "id": "movie_6",
+      "name": "Forrest Gump",
+      "thumbnail": "https://via.placeholder.com/200x300?text=Forrest+Gump",
+      "releaseDate": "1994-07-06",
+      "rating": 8.8,
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, and the Watergate scandal unfold from the perspective of an Alabama man with an IQ of 75.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_7": {
+      "id": "movie_7",
+      "name": "The Matrix",
+      "thumbnail": "https://via.placeholder.com/200x300?text=The+Matrix",
+      "releaseDate": "1999-03-31",
+      "rating": 8.7,
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_8": {
+      "id": "movie_8",
+      "name": "Avatar",
+      "thumbnail": "https://via.placeholder.com/200x300?text=Avatar",
+      "releaseDate": "2009-12-18",
+      "rating": 7.8,
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_9": {
+      "id": "movie_9",
+      "name": "The Godfather",
+      "thumbnail": "https://via.placeholder.com/200x300?text=The+Godfather",
+      "releaseDate": "1972-03-24",
+      "rating": 9.2,
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his youngest son.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    },
+    "movie_10": {
+      "id": "movie_10",
+      "name": "The Avengers",
+      "thumbnail": "https://via.placeholder.com/200x300?text=The+Avengers",
+      "releaseDate": "2012-05-04",
+      "rating": 8.0,
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team to prevent an alien invasion.",
+      "likes": 0,
+      "syncedWithFirebase": true,
+      "lastModified": 1712689200000
+    }
+  }
+}

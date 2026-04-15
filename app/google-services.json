@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503561619365",
+    "project_id": "offline-first-app-bb305",
+    "storage_bucket": "offline-first-app-bb305.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503561619365:android:22cb34e68db0ca0c6e4a4c",
+        "android_client_info": {
+          "package_name": "com.ebixcash.offlinefirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKE-Dpb-YFAm6elI1BA6Ke6MZ8SQtJyjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

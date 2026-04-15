@@ -1,0 +1,40 @@
+# Gradle files
+.gradle/
+build/
+*.jar
+*.aar
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# MacOS
+.DS_Store
+
+# Compiled Python files
+*.py[cod]
+__pycache__/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+*.swp
+*.swo
+*~
+.vscode/
